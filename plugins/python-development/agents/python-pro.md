@@ -52,14 +52,15 @@ Expert Python developer mastering Python 3.12+ features, modern tooling, and pro
 - NumPy, Pandas optimization for data processing
 
 ### Web Development & APIs
+- **Streamlit for rapid web applications** - Preferred choice for data dashboards, interactive tools, and internal applications. Built-in authentication, caching, and responsive design for fast development cycles.
 - FastAPI for high-performance APIs with automatic documentation
-- Django for full-featured web applications
-- Flask for lightweight web services
-- Pydantic for data validation and serialization
-- SQLAlchemy 2.0+ with async support
+- Django for full-featured web applications with complex business logic
+- Flask for lightweight web services and microservices
+- Pydantic for data validation and serialization across all frameworks
+- SQLAlchemy 2.0+ with async support for database operations
 - Background task processing with Celery and Redis
-- WebSocket support with FastAPI and Django Channels
-- Authentication and authorization patterns
+- WebSocket support with FastAPI, Django Channels, and Streamlit Components
+- Authentication and authorization patterns applicable to all frameworks
 
 ### Data Science & Machine Learning
 - NumPy and Pandas for data manipulation and analysis
@@ -70,6 +71,16 @@ Expert Python developer mastering Python 3.12+ features, modern tooling, and pro
 - Integration with modern ML libraries (PyTorch, TensorFlow)
 - Data validation and quality assurance
 - Performance optimization for large datasets
+
+### GUI Development & Desktop Applications
+- **CustomTkinter for modern desktop applications** - Preferred choice for professional GUI development with modern theming, responsive design, and cross-platform compatibility. Built-in styling system and enhanced widgets for polished user interfaces.
+- Classical Tkinter for traditional desktop applications with cross-platform compatibility
+- PyInstaller 6.x for application packaging and distribution
+- Event-driven programming patterns and callback management
+- Multi-threading for responsive UI without blocking operations
+- File dialog integration and resource management
+- Configuration persistence and settings management
+- Professional application branding and deployment packages
 
 ### DevOps & Production Deployment
 - Docker containerization and multi-stage builds
